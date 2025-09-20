@@ -29,6 +29,7 @@ makes dressing up easier, faster, and more fun than ever!
 
 For questions or suggestions, email **z_h_a_o_yin.j_ia at g_m_a_i_l.com** (remove _ )
 
+## ✨ Privacy Policy
 Costume Magic respects your privacy. This app does not collect, store, or share any personal data or photos.
 
 Any images you upload (such as profile photos or costume images) are used only on your device to generate the costume preview.
