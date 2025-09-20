@@ -14,15 +14,17 @@ photo magic.
 ## ✨ Features
 
 -   🎭 **Instant Costume Generator** -- See yourself or your child in
-    amazing costumes within seconds.\
+    amazing costumes within seconds.
 -   🧸 **Kid-Friendly & Fun** -- Safe and simple to use, designed for
-    families.\
+    families.
 -   🎃 **Perfect for Halloween & Parties** -- Preview costumes before
-    you buy or just have fun trying them all.\
+    you buy or just have fun trying them all.
 -   ✨ **Custom Costume Upload** -- Add your own costume photos to make
-    it unique.\
+    it unique. **Long press to delete costume**
 -   📸 **Share with Friends & Family** -- Save and share your magical
     transformations instantly.
 
 Whether it's for Halloween, birthdays, or just for laughs---this app
 makes dressing up easier, faster, and more fun than ever!
+
+For questions or suggestions, email z_h_a_o_yin.j_ia@g_m_a_i_l.com (remove _ )
