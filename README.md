@@ -27,4 +27,4 @@ photo magic.
 Whether it's for Halloween, birthdays, or just for laughs---this app
 makes dressing up easier, faster, and more fun than ever!
 
-For questions or suggestions, email z_h_a_o_yin.j_ia@g_m_a_i_l.com (remove _ )
+For questions or suggestions, email z_h_a_o_yin.j_ia at g_m_a_i_l.com (remove _ )
